@@ -1,0 +1,25 @@
+@media (max-width: 600px){
+    .civil{
+        display: flex;
+        flex-direction: column;
+    }
+    .infor{
+        width: 100%;
+        margin-bottom: 24px;
+        padding-bottom: 24px;
+    }
+    .info2{
+        width: 100%;
+        margin-bottom: 24px;
+        
+    }
+
+    .workex{
+        padding-bottom: 24px;
+
+    }
+    .edu{
+        padding-bottom: 24px;
+
+    }
+}
